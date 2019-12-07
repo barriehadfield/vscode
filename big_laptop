@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.fontSize": 16,
+    "ruby.format": "rufo",
+    "ruby.codeCompletion": "rcodetools",
+    "ruby.intellisense": "rubyLocate",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.tabSize": 2,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "workbench.iconTheme": null,
+    "workbench.colorCustomizations": {
+        "gitDecoration.modifiedResourceForeground": "#1cad58",
+        "gitDecoration.untrackedResourceForeground": "#00a2ff"
+    },
+    "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
+    "bracket-pair-colorizer-2.showVerticalScopeLine": false,
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}",
+        "opacity: 0.25"
+    ],
+    "editor.matchBrackets": false,
+    "bracket-pair-colorizer-2.highlightActiveScope": true,
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "bracket-pair-colorizer-2.showBracketsInRuler": true
+}
